@@ -1,18 +1,34 @@
-## Getting Started
+# Interface Java Swing - Coleção de Exemplos ☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém uma série de exercícios práticos e exemplos desenvolvidos para o estudo da biblioteca **Java Swing**. O objetivo é documentar o aprendizado de componentes de interface gráfica (GUI), manipulação de eventos e integração com lógica de dados.
 
-## Folder Structure
+## 🚀 Tecnologias Utilizadas
 
-The workspace contains two folders by default, where:
+* **Java JDK** (versão 17 ou superior)
+* **Swing Library** (GUI)
+* **VS Code** (Ambiente de desenvolvimento)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Componentes Explorados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto inclui exemplos práticos de diversos componentes, como:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* **Básicos:** `JButton`, `JLabel`, `JTextField`, `JCheckBox`, `JRadioButton`.
+* **Seleção & Listas:** `JComboBox`, `JList`, `JTree`, `JColorChooser`.
+* **Organização de Layout:** `JTabbedPane`, `JSplitPane`, `JMenuBar`, `JToolBar`, `PopupMenu`.
+* **Interativos:** `JProgressBar`, `JSlider`, `JTextArea`, `JPasswordField`.
 
-## Dependency Management
+## 🛠️ Destaques do Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### CRUD com JTable e JList
+Dentro da pasta `src`, você encontrará exemplos de implementação de **CRUD (Create, Read, Update, Delete)** utilizando:
+* `ExemploCRUDJTable.java`: Manipulação de dados em formato de tabela.
+* `ExemploCRUDLista.java`: Gerenciamento de itens em listas dinâmicas.
+
+## 📸 Demonstração
+As capturas de tela das interfaces desenvolvidas podem ser encontradas na pasta `/img`.
+
+## 🏁 Como Executar
+1. Certifique-se de ter o Java instalado em sua máquina.
+2. Clone o repositório:
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
